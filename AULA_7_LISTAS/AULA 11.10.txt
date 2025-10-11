@@ -1,0 +1,7 @@
+AULA 11.10
+Ctrl : = comentário
+Ctrl + d = selecionar todas a variáveis (esc sai do fluxo)
+identação == organização de acordo com a sintaxe da linguagem 
+bea.pub/python60
+
+

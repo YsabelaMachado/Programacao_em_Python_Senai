@@ -1,0 +1,440 @@
+Possíveis_informações
+
+# # sinais ariméticos 
+# # +    -    *   /   //    %    **0.5
+# # Saida é sempre um número
+
+# n1  = 10
+# n2  = 20
+
+# print(n1  +  n2 )
+# print(n1  -  n2 )
+# print(n1  *  n2 )
+# print(n1  /  n2 )
+
+# # primeiro valor decimal  
+# print(n1  //  n2 )
+
+# # resto da conta de divisão 
+# print(10  %   2 )
+
+# # sinais lógicos -  saída é sempre True ou False
+# n1  = 10
+# n2  = 2
+# print(n1 > n2)# maior
+# print(n1 < n2)# menor  
+# print(n1 >= n2)# maior ou igual
+# print(n1 <= n2)# menor ou igual
+# print(n1 != n2)# diferente
+# print(n1 == n2)# igual
+
+
+# print('objeto', 10, n1) # output -- saída
+
+# nome = input('digite seu nome: ') # input -- entrada
+
+# # o Input naturalmente gera um texto 
+
+# n1  =  float(input('Digite um número: '))
+# n2  =  float(input('Digite outro número: '))
+# print(n1 + n2)
+
+# n1  =  float(input('Digite um número: '))
+# n2  =  float(input('Digite outro número: '))
+# print(n1 - n2)
+
+# n1  =  float(input('Digite um número: '))
+# n2  =  float(input('Digite outro número: '))
+# print(n1 / n2)
+
+# n1  =  float(input('Digite um número: '))
+# n2  =  float(input('Digite outro número: '))
+# print(n1 * n2)
+
+
+# concatenação -- juntar dados
+
+nome  =  input('Digite seu nome: ')
+idade = int(input('Digite sua idade: '))
+endereco = input('Digite seu endereço: ')
+curso = input('Curso: ')
+salario =  float(input('Digite seu salário: '))
+# concatenar 
+print('Nome', nome, 'idade: ',idade)
+print(f'Nome {nome} idade {idade}')
+print('Nome'+' '+nome+' '+ 'idade'+ ' ', idade)
+print('Nome {} idade {}'.format(nome, idade))
+print('Nome %s idade %d'%(nome, idade))
+
+
+
+# pular linha
+# print()
+# f''' '''
+# \n
+
+# f'''  sdfsdfhsdlfsdf  {}''' cerquilha 
+print(f'''
+Nome {nome}
+Idade {idade}
+Endereço {endereco}
+Curso {curso}
+Salario {salario}          
+''')
+# \n
+print('Nome\n', nome, 'idade\n',idade)
+
+# print
+
+print('Sua Idade é:', idade)
+print('Endereço: ', endereco)
+print('Curso: ', curso)
+print('Salário R$', salario)
+
+
+
+
+
+
+
+# # sinais ariméticos 
+# # +    -    *   /   //    %    **0.5
+# # Saida é sempre um número
+
+# n1  = 10
+# n2  = 20
+
+# print(n1  +  n2 )
+# print(n1  -  n2 )
+# print(n1  *  n2 )
+# print(n1  /  n2 )
+
+# # primeiro valor decimal  
+# print(n1  //  n2 )
+
+# # resto da conta de divisão 
+# print(10  %   2 )
+
+# # sinais lógicos -  saída é sempre True ou False
+# n1  = 10
+# n2  = 2
+# print(n1 > n2)# maior
+# print(n1 < n2)# menor  
+# print(n1 >= n2)# maior ou igual
+# print(n1 <= n2)# menor ou igual
+# print(n1 != n2)# diferente
+# print(n1 == n2)# igual
+
+
+# print('objeto', 10, n1) # output -- saída
+
+# nome = input('digite seu nome: ') # input -- entrada
+
+# # o Input naturalmente gera um texto 
+
+# n1  =  float(input('Digite um número: '))
+# n2  =  float(input('Digite outro número: '))
+# print(n1 + n2)
+
+# n1  =  float(input('Digite um número: '))
+# n2  =  float(input('Digite outro número: '))
+# print(n1 - n2)
+
+# n1  =  float(input('Digite um número: '))
+# n2  =  float(input('Digite outro número: '))
+# print(n1 / n2)
+
+# n1  =  float(input('Digite um número: '))
+# n2  =  float(input('Digite outro número: '))
+# print(n1 * n2)
+
+
+# concatenação -- juntar dados
+
+nome  =  input('Digite seu nome: ')
+idade = int(input('Digite sua idade: '))
+endereco = input('Digite seu endereço: ')
+curso = input('Curso: ')
+salario =  float(input('Digite seu salário: '))
+# concatenar 
+print('Nome', nome, 'idade: ',idade)
+print(f'Nome {nome} idade {idade}')
+print('Nome'+' '+nome+' '+ 'idade'+ ' ', idade)
+print('Nome {} idade {}'.format(nome, idade))
+print('Nome %s idade %d'%(nome, idade))
+
+
+
+# pular linha
+# print()
+# f''' '''
+# \n
+
+# f'''  sdfsdfhsdlfsdf  {}''' cerquilha 
+print(f'''
+Nome {nome}
+Idade {idade}
+Endereço {endereco}
+Curso {curso}
+Salario {salario}          
+''')
+# \n
+print('Nome\n', nome, 'idade\n',idade)
+
+# print
+
+print('Sua Idade é:', idade)
+print('Endereço: ', endereco)
+print('Curso: ', curso)
+print('Salário R$', salario)
+
+
+
+
+# # sinais ariméticos 
+# # +    -    *   /   //    %    **0.5
+# # Saida é sempre um número
+
+# n1  = 10
+# n2  = 20
+
+# print(n1  +  n2 )
+# print(n1  -  n2 )
+# print(n1  *  n2 )
+# print(n1  /  n2 )
+
+# # primeiro valor decimal  
+# print(n1  //  n2 )
+
+# # resto da conta de divisão 
+# print(10  %   2 )
+
+# # sinais lógicos -  saída é sempre True ou False
+# n1  = 10
+# n2  = 2
+# print(n1 > n2)# maior
+# print(n1 < n2)# menor  
+# print(n1 >= n2)# maior ou igual
+# print(n1 <= n2)# menor ou igual
+# print(n1 != n2)# diferente
+# print(n1 == n2)# igual
+
+
+# print('objeto', 10, n1) # output -- saída
+
+# nome = input('digite seu nome: ') # input -- entrada
+
+# # o Input naturalmente gera um texto 
+
+# n1  =  float(input('Digite um número: '))
+# n2  =  float(input('Digite outro número: '))
+# print(n1 + n2)
+
+# n1  =  float(input('Digite um número: '))
+# n2  =  float(input('Digite outro número: '))
+# print(n1 - n2)
+
+# n1  =  float(input('Digite um número: '))
+# n2  =  float(input('Digite outro número: '))
+# print(n1 / n2)
+
+# n1  =  float(input('Digite um número: '))
+# n2  =  float(input('Digite outro número: '))
+# print(n1 * n2)
+
+
+# concatenação -- juntar dados
+
+nome  =  input('Digite seu nome: ')
+idade = int(input('Digite sua idade: '))
+endereco = input('Digite seu endereço: ')
+curso = input('Curso: ')
+salario =  float(input('Digite seu salário: '))
+# concatenar 
+print('Nome', nome, 'idade: ',idade)
+print(f'Nome {nome} idade {idade}')
+print('Nome'+' '+nome+' '+ 'idade'+ ' ', idade)
+print('Nome {} idade {}'.format(nome, idade))
+print('Nome %s idade %d'%(nome, idade))
+
+
+
+# pular linha
+# print()
+# f''' '''
+# \n
+
+# f'''  sdfsdfhsdlfsdf  {}''' cerquilha 
+print(f'''
+Nome {nome}
+Idade {idade}
+Endereço {endereco}
+Curso {curso}
+Salario {salario}          
+''')
+# \n
+print('Nome\n', nome, 'idade\n',idade)
+#print
+
+print('Sua Idade é:', idade)
+print('Endereço: ', endereco)
+print('Curso', curso)
+print('Salário R$', salario)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lista_  =  [1,2,3]
+
+print(lista_)               
+lista_[0] = 100
+print(lista_)
+
+
+# funções
+# nomeDaFunção(lista)
+
+# alteram 
+# funções atribuir valores a lista 
+
+lista_.append(10)
+print(lista_)
+
+lista_.insert(1,200)
+print(lista_)
+
+lista_.extend([10,20,30,10,20])
+print(lista_)
+
+lista_+=(10,20,50,55,5)
+print(lista_)
+
+# remover os dados
+
+lista_.pop()
+print(lista_)
+
+lista_.pop(5)
+print(lista_)
+
+lista_.remove(200)
+print(lista_)
+
+del lista_[0]
+print(lista_)
+
+
+# verificam um dado:
+
+
+
+# tamanho
+
+print(len(lista_))
+
+# menor numero
+
+print(min(lista_))
+
+# maior numero
+
+print(max(lista_))
+
+# quanto tem de um dado 
+
+print(lista_.count(10))
+
+# ordenar a lista 
+
+lista_.sort()
+print(lista_)
+
+# reverter a sequencia da lista 
+
+lista_.sort(reverse = True)
+print(lista_)
+
+# copiar a lista 
+
+
+x  =  lista_.copy()
+print(x)
+
+# limpar a lista
+lista_.clear()
+print(lista_)
+
+# métodos
+# nome.nomeMétodo
+
+
+
+
+
+
+
+
+
+lista_alunos = []
+nome1 = input('Nome 1: ') 
+nome2 = input('Nome 2: ') 
+nome3 = input('Nome 3: ') 
+
+
+# lista_alunos.append(nome1)
+# lista_alunos.append(nome1)
+# lista_alunos.append(nome1)
+
+
+lista_alunos.extend([nome1,nome2, nome3])
+
+
+notas_aluno1 = [float(input(f'nota 1:{nome1}')),float(input(f'nota 2:{nome1}'))]
+notas_aluno2=  [float(input(f'nota 1:{nome2}')),float(input(f'nota 2:{nome2}'))]
+notas_aluno3 = [float(input(f'nota 1:{nome3}')),float(input(f'nota 2:{nome3}'))]
+
+
+media_aluno1 = sum(notas_aluno1)/len(notas_aluno1)
+media_aluno2 = sum(notas_aluno2)/len(notas_aluno2)
+media_aluno3 = sum(notas_aluno3)/len(notas_aluno3)
+
+
+print('Media Alunos')
+
+
+print(f'''
+Médias:
+aluno{nome1} - {media_aluno1}
+aluno{nome2} - {media_aluno2}
+aluno{nome3} - {media_aluno3}
+''')
+
+
+aprovado_1 = media_aluno1 >= 7
+aprovado_2 = media_aluno2 >= 7
+aprovado_3 = media_aluno3 >= 7
+
+
+print(f'''
+{nome1} - APROVADO - {aprovado_1}
+{nome2} - APROVADO - {aprovado_2}
+{nome3} - APROVADO - {aprovado_3} 
+''')
+
+
